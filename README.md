@@ -101,7 +101,7 @@ This is an example of how to list things you need to use the software and how to
 
 R4V3N - [@R4v3nir](https://t.me/R4v3nir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/R4V3NIR/Raven-Language-Translator](https://github.com/R4V3NIR/Raven-Language-Translator)
+Project Link: [https://github.com/R4V3NIR/QR-Code-Generator-Detector](https://github.com/R4V3NIR/QR-Code-Generator-Detector)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
