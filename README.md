@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://s8.uupload.ir/files/bandicam_2023-06-16_00-06-05-258_0mle.gif)
+![](https://s8.uupload.ir/files/bandicam_2023-07-09_10-02-47-579_azqp.gif)
 
 A QR code, short for Quick Response code, is a machine-readable barcode used to store different data types and is designed in a 2D pixelated form.
 
